@@ -9,6 +9,9 @@ verify_ssl = true
 django = "==2.1"
 pylint-django = "*"
 django-tastypie = "*"
+guincorn = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.8"
